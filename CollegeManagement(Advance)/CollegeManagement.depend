@@ -1,0 +1,276 @@
+# depslib dependency file v1.0
+1662495543 source:e:\programs\collegemanagement\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	"DataBase.h"
+	"System_Design.h"
+
+1662480186 e:\programs\collegemanagement\database.h
+
+1662493224 source:e:\programs\collegemanagement\database.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<cstring>
+	"DataBase.h"
+	"System_Design.h"
+
+1662310287 e:\programs\collegemanagement\system_design.h
+	<iostream>
+
+1662310287 source:e:\programs\collegemanagement\system_design.cpp
+	<iostream>
+	<windows.h>
+
+1662494375 source:e:\programs\collegemanagement\administrator.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<cassert>
+	"System_Design.h"
+	"DataBase.h"
+
+1662459753 source:e:\programs\collegemanagement\test.cpp
+	<iostream>
+	"DataBase.h"
+	"System_Design.h"
+
+1662496520 source:g:\playground\collegemanagement\administrator.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<cassert>
+	"System_Design.h"
+	"DataBase.h"
+
+1662310288 g:\playground\collegemanagement\system_design.h
+	<iostream>
+
+1662480188 g:\playground\collegemanagement\database.h
+
+1662493226 source:g:\playground\collegemanagement\database.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<cstring>
+	"DataBase.h"
+	"System_Design.h"
+
+1662495544 source:g:\playground\collegemanagement\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	"DataBase.h"
+	"System_Design.h"
+
+1662310288 source:g:\playground\collegemanagement\system_design.cpp
+	<iostream>
+	<windows.h>
+
+1662459754 source:g:\playground\collegemanagement\test.cpp
+	<iostream>
+	"DataBase.h"
+	"System_Design.h"
+
+1666108419 source:e:\sourcecode of cm\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	"DataBase.h"
+	"System_Design.h"
+
+1667823465 e:\sourcecode of cm\database.h
+
+1663325034 e:\sourcecode of cm\system_design.h
+	<iostream>
+
+1664620297 source:e:\sourcecode of cm\system_design.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1662459754 source:e:\sourcecode of cm\test.cpp
+	<iostream>
+	"DataBase.h"
+	"System_Design.h"
+
+1663430142 source:e:\sourcecode of cm\database.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<cstring>
+	"DataBase.h"
+	"System_Design.h"
+
+1667566613 source:e:\sourcecode of cm\administrator.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<cassert>
+	<iomanip>
+	"System_Design.h"
+	"DataBase.h"
+
+1673278746 source:d:\sourcecode of cm\administrator.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cassert>
+	<iomanip>
+	"System_Design.h"
+	"DataBase.h"
+
+1673278189 d:\sourcecode of cm\system_design.h
+	<iostream>
+
+1672572566 d:\sourcecode of cm\database.h
+
+1672573174 source:d:\sourcecode of cm\database.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<cstring>
+	"DataBase.h"
+	"System_Design.h"
+
+1673278133 source:d:\sourcecode of cm\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	"DataBase.h"
+	"System_Design.h"
+
+1673278505 source:d:\sourcecode of cm\system_design.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<mmsystem.h>
+
+1662459754 source:d:\sourcecode of cm\test.cpp
+	<iostream>
+	"DataBase.h"
+	"System_Design.h"
+
+1670006080 source:f:\sourcecode of cm\database.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<cstring>
+	"DataBase.h"
+	"System_Design.h"
+
+1671116840 f:\sourcecode of cm\database.h
+
+1663325036 f:\sourcecode of cm\system_design.h
+	<iostream>
+
+1669650166 source:f:\sourcecode of cm\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	"DataBase.h"
+	"System_Design.h"
+
+1664620298 source:f:\sourcecode of cm\system_design.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1662459754 source:f:\sourcecode of cm\test.cpp
+	<iostream>
+	"DataBase.h"
+	"System_Design.h"
+
+1671175150 source:f:\sourcecode of cm\administrator.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cassert>
+	<iomanip>
+	"System_Design.h"
+	"DataBase.h"
+
+1673278746 source:d:\project list\collegemanagement(advance)\administrator.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<cassert>
+	<iomanip>
+	"System_Design.h"
+	"DataBase.h"
+
+1684555859 d:\project list\collegemanagement(advance)\system_design.h
+	<iostream>
+
+1672572566 d:\project list\collegemanagement(advance)\database.h
+
+1672573174 source:d:\project list\collegemanagement(advance)\database.cpp
+	<iostream>
+	<cstring>
+	<stdlib.h>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	<conio.h>
+	<cstring>
+	"DataBase.h"
+	"System_Design.h"
+
+1684556851 source:d:\project list\collegemanagement(advance)\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<fstream>
+	<iomanip>
+	"DataBase.h"
+	"System_Design.h"
+
+1684556783 source:d:\project list\collegemanagement(advance)\system_design.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<thread>
+	<mmsystem.h>
+
+1662459754 source:d:\project list\collegemanagement(advance)\test.cpp
+	<iostream>
+	"DataBase.h"
+	"System_Design.h"
+
